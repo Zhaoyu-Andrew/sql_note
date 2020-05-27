@@ -110,7 +110,7 @@ add and commmit change in this separate branch instead of the local master branc
 ```bash
 git checkout -b branchname
 ```
-after our changes are made from second branch is agree 
+after the changes made from second branch are agree 
 
 ```bash
 git checkout master
